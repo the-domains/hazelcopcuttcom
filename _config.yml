@@ -1,0 +1,14 @@
+layout_spectrum: 0.6510620582848787
+typography_spectrum: 0.681014568079263
+color:
+  brandStrength: 0.604706630576402
+  lightness: 0.033116385573521256
+  saturation: 0.16802542936056852
+  rhythmicContrast: 0.31103446171619
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: HazelCopcutt.com
