@@ -6,9 +6,9 @@ color:
   saturation: 0.16802542936056852
   rhythmicContrast: 0.31103446171619
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 name: HazelCopcutt.com
