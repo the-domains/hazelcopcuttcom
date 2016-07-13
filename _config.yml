@@ -1,4 +1,3 @@
-layout_spectrum: 0.6510620582848787
 typography_spectrum: 0.681014568079263
 color:
   brandStrength: 0.604706630576402
@@ -11,4 +10,10 @@ color:
     - '#77C4D3'
     - '#DAEDE2'
     - '#EA2E49'
-name: HazelCopcutt.com
+layout_spectrum: 0.6510620582848787
+author:
+  name: Hazel Copcutt
+  email: hazel@supernaturalstrangelove.com
+  url: 'http://hazelcopcutt.com'
+name: HazelCopcutt
+title: ''
