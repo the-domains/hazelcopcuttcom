@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[HazelCopcutt]]></title>
         <description><![CDATA[HazelCopcutt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://hazelcopcutt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 17:25:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Aug 2016 17:25:14 GMT</lastBuildDate>
+        <atom:link href="http://hazelcopcutt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dadcdf68-bf69-4599-a226-51051f4525bf.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dadcdf68-bf69-4599-a226-51051f4525bf.jpg</link>
+            <guid isPermaLink="false">52f816c3-b79a-4bab-b0d4-69e466492a42</guid>
+            <pubDate>Mon, 01 Aug 2016 17:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4632c1d-21a5-4aff-a966-8999a6417f80.jpg">]]></description>
