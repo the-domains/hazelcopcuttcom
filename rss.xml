@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[HazelCopcutt]]></title>
-        <description><![CDATA[HazelCopcutt]]></description>
+        <title><![CDATA[Love Wisdom Time & Death]]></title>
+        <description><![CDATA[Love Wisdom Time & Death]]></description>
         <link>http://hazelcopcutt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 17:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 14:19:29 GMT</lastBuildDate>
         <atom:link href="http://hazelcopcutt.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dadcdf68-bf69-4599-a226-51051f4525bf.jpg</link>
             <guid isPermaLink="false">52f816c3-b79a-4bab-b0d4-69e466492a42</guid>
             <pubDate>Mon, 01 Aug 2016 17:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4632c1d-21a5-4aff-a966-8999a6417f80.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4632c1d-21a5-4aff-a966-8999a6417f80.jpg</link>
-            <guid isPermaLink="false">ef97c0cf-17dc-4583-a33b-c4b1ebfd214b</guid>
-            <pubDate>Mon, 01 Aug 2016 17:25:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
