@@ -1,19 +1,19 @@
+name: HazelCopcutt
+layout_spectrum: 0.6510620582848787
 typography_spectrum: 0.681014568079263
 color:
-  brandStrength: 0.604706630576402
-  lightness: 0.033116385573521256
-  saturation: 0.16802542936056852
-  rhythmicContrast: 0.31103446171619
   brandColors:
     - '#F6F792'
     - '#333745'
     - '#77C4D3'
     - '#DAEDE2'
     - '#EA2E49'
-layout_spectrum: 0.6510620582848787
+  brandStrength: 0.604706630576402
+  lightness: 0.033116385573521256
+  saturation: 0.16802542936056852
+  rhythmicContrast: 0.31103446171619
+title: Love Wisdom Time & Death
 author:
   name: Hazel Copcutt
-  email: hazel@supernaturalstrangelove.com
   url: 'http://hazelcopcutt.com'
-name: HazelCopcutt
-title: Love Wisdom Time & Death
+  email: hazel@supernaturalstrangelove.com
