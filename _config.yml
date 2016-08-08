@@ -1,22 +1,22 @@
 name: HazelCopcutt
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bb2f38-5f68-45b0-b562-61c82e0415bc.jpg
-layout_spectrum: 0.6510620582848787
-typography_spectrum: 0.681014568079263
+layout_spectrum: 0.39333618711680174
+typography_spectrum: 0.9388374765403569
 opengraph:
   type: ''
   appId: ''
 color:
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
-  brandStrength: 0.604706630576402
-  lightness: 0.033116385573521256
-  saturation: 0.16802542936056852
-  rhythmicContrast: 0.31103446171619
+    - '#170E11'
+    - '#FDF5F2'
+    - '#FB0187'
+    - '#F8435F'
+    - '#BA8678'
+  brandStrength: 0.1682900902815163
+  lightness: 0.512294399086386
+  saturation: 0.5146615756675601
+  rhythmicContrast: 0.2522669492755085
 title: Love Wisdom Time & Death
 author:
   name: Hazel Copcutt
