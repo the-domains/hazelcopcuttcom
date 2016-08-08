@@ -1,6 +1,11 @@
 name: HazelCopcutt
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bb2f38-5f68-45b0-b562-61c82e0415bc.jpg
 layout_spectrum: 0.6510620582848787
 typography_spectrum: 0.681014568079263
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#F6F792'
@@ -17,3 +22,5 @@ author:
   name: Hazel Copcutt
   url: 'http://hazelcopcutt.com'
   email: hazel@supernaturalstrangelove.com
+content_rating:
+  adult: true
