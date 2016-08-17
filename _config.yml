@@ -1,6 +1,11 @@
+name: HazelCopcutt
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bb2f38-5f68-45b0-b562-61c82e0415bc.jpg
+layout_spectrum: 0.39333618711680174
 typography_spectrum: 0.9388374765403569
-content_rating:
-  adult: true
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#170E11'
@@ -12,15 +17,10 @@ color:
   lightness: 0.512294399086386
   saturation: 0.5146615756675601
   rhythmicContrast: 0.2522669492755085
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.39333618711680174
+title: Love Wisdom Time & Death
 author:
   name: Hazel Copcutt
   url: 'http://hazelcopcutt.com'
   email: hazel@supernaturalstrangelove.com
-name: HazelCopcutt
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bb2f38-5f68-45b0-b562-61c82e0415bc.jpg
-title: Love Wisdom Time & Death
+content_rating:
+  adult: true
